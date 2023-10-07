@@ -1,3 +1,9 @@
-- name: setup-shell
-  src: git@github.com:reubendevries/setup-shell.git
-  version: main
+---
+roles:
+  - name: setup-shell
+    src: git@github.com:reubendevries/setup-shell.git
+    version: 'main'
+
+collections:
+  - name: community.general
+    version: 'latest'
