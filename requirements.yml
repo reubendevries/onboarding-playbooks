@@ -1,0 +1,3 @@
+- name: setup-shell
+  src: git@github.com:reubendevries/setup-shell.git
+  version: main
