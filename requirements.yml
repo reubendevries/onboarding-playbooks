@@ -7,4 +7,4 @@ roles:
 
 collections:
   - name: community.general
-    version: 'latest'
+    version: 7.4.0
