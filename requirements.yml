@@ -3,7 +3,7 @@ roles:
   - name: setup-shell
     src: git@github.com:reubendevries/setup-shell.git
     scm: git
-    version: 'main'
+    version: "main"
 
 collections:
   - name: community.general
