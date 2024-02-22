@@ -5,5 +5,10 @@ roles:
     scm: git
     version: "main"
 
+  - name: rutorrent-role
+    src: git@github.com:reubendevries/rutorrent-role.git
+    scm: git
+    version: "main"
+
 collections:
   - name: community.general
