@@ -3,3 +3,5 @@
   gather_facts: true
   roles:
     - setup-shell
+  vars:
+    hack_nerd_fonts_version: 3.1.1
